@@ -1,5 +1,5 @@
 {
-  "user": "Southclaws",
+  "user": "AGraber",
   "repo": "samp-plugin-mapandreas",
   "entry": "test.pwn",
   "output": "test/gamemodes/test.amx",
